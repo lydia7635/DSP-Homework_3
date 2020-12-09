@@ -1,2 +1,9 @@
 corpus.txt
 ZhuYin-Big5.map
+output
+mydisambig
+corpus_model
+corpus_separate
+corpus_statistics
+*.o
+*separate.txt
